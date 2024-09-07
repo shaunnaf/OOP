@@ -17,7 +17,7 @@ public class HeapSort
 
         }
     }
-
+    
 
     public static void heapify(int[] arr, int length, int i)
     {
@@ -58,7 +58,7 @@ public class HeapSort
 
     public static void main(String[] args)
     {
-        int[] array = {4,10,3,5,1};
+        int[] array = {4,9,3,5,1};
 
         HeapSort.sort(array);
 
