@@ -90,3 +90,7 @@ public class WorkWithArray {
         return name;
     }
 }
+
+public static int takeNumberCard(int[]array,int index){
+    return
+}
