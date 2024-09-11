@@ -9,9 +9,11 @@ public class PrintScreen{
     }
     public void distribution(int []array){
         System.out.println("Дилер раздал карты");
-        int indexCard_1 = WorkWithArray.getRandom(array);
+        int indexCard_1 = WorkWithArray
         int Card_1 = array[indexCard_1];
         WorkWithArray.zeroing(array,indexCard_1);
         System.out.println(" Ваши карты:["+ );
     }
 }
+
+м
